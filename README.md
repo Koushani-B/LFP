@@ -64,7 +64,7 @@ which contains:
 
 **Option A - Run entire script:**
 - Open `koushani_lfp_analysis_vscode.py` in VS Code
-- Press F5 or click the Run button (▶️) in the top right
+- Press F5 or click the Run button in the top right
 - Or right-click in the editor and select "Run Python File in Terminal"
 
 **Option B - Run from terminal:**
